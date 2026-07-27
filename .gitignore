@@ -1,0 +1,7 @@
+# Only the Selah project's own renderings are tracked here.
+# Raw fetched source texts (Sefaria and others) stay untracked —
+# they are not ours to relicense.
+/*/*
+!/*/en-selah/
+!/*/chalkboard/
+!/*/ALIGNMENT.md

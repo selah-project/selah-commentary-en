@@ -1,0 +1,21 @@
+# Selah · Commentary Renderings (English)
+
+English renderings of classical commentaries on the Hebrew Bible,
+produced by the Selah project — one directory per voice, one EDN
+file per comment (`<voice>/en-selah/<book>/<chapter>/<verse>.edn`).
+
+The renderings keep the Selah house discipline: divine Names
+transliterate (YHWH, Elohim, Adonai…), Hebrew quotations stay
+Hebrew, and gematria arithmetic is preserved as the commentator
+wrote it. Where a voice has a `chalkboard/` directory, each
+Hebrew quotation additionally carries a transliteration and gloss.
+
+Voices currently rendered: Baal HaTurim · Chizkuni · Daat Zkenim ·
+Ibn Ezra · Kli Yakar · Or HaChaim · Rabbeinu Bahya · Ramban ·
+Rashbam · Sforno.
+
+The raw source texts are not distributed here — only the Selah
+renderings and their revision history.
+
+Part of the [Selah project](https://selahproject.org).
+License: [CC BY-SA 4.0](LICENSE.md).
