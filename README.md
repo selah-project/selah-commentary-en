@@ -19,3 +19,9 @@ renderings and their revision history.
 
 Part of the [Selah project](https://selahproject.org).
 License: [CC BY-SA 4.0](LICENSE.md).
+
+## Support Selah
+
+These renderings remain open under CC BY-SA 4.0. If they serve you and you want
+to help carry their translation, correction, publication, and continued work,
+visit [selahproject.com/support](https://selahproject.com/support).
