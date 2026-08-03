@@ -25,3 +25,10 @@ License: [CC BY-SA 4.0](LICENSE.md).
 These renderings remain open under CC BY-SA 4.0. If they serve you and you want
 to help carry their translation, correction, publication, and continued work,
 visit [selahproject.com/support](https://selahproject.com/support).
+
+## Contribute a correction
+
+Hebrew readers, students of the commentators, and careful English editors are
+welcome to help. Read [CONTRIBUTING.md](CONTRIBUTING.md) before reporting or
+editing a rendering; correcting Selah's English is different from silently
+rewriting the commentator's source.
