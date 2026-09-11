@@ -17,7 +17,7 @@ Rashbam · Sforno.
 The raw source texts are not distributed here — only the Selah
 renderings and their revision history.
 
-Part of the [Selah project](https://selahproject.org).
+Part of the [Selah project](https://selahproject.com).
 License: [CC BY-SA 4.0](LICENSE.md).
 
 ## Support Selah
