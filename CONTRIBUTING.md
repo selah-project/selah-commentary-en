@@ -58,3 +58,8 @@ voice, repository conventions, and supplied evidence. A correction may be
 accepted, revised, held for further evidence, or declined with an explanation.
 Please be patient, precise, and respectful of both contributors and the
 traditions represented here.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
